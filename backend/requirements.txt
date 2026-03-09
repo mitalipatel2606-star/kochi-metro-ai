@@ -1,0 +1,16 @@
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# OCR + PDF handling
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+
+# Translation (deep-translator is safer than googletrans)
+deep-translator
+
+# Server (Gunicorn for Render)
+gunicorn
